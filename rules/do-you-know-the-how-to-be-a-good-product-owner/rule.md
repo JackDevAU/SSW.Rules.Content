@@ -1,19 +1,18 @@
 ---
 type: rule
-archivedreason: 
 title: Do you know how to be a good Product Owner?
-guid: 6fe6f616-5f01-4b6f-bd42-5b2bf6a06279
-uri: do-you-know-the-how-to-be-a-good-product-owner
-created: 2013-06-03T20:04:21.0000000Z
+uri: do-you-know-the-how-to-be-a-good-product-ownerA
 authors:
-- title: Ulysses Maclaren
-  url: https://ssw.com.au/people/ulysses-maclaren
-- title: Adam Cogan
-  url: https://ssw.com.au/people/adam-cogan
+  - title: Ulysses Maclaren
+    url: https://ssw.com.au/people/ulysses-maclaren
+  - title: Adam Cogan
+    url: https://ssw.com.au/people/adam-cogan
 related: []
 redirects:
-- do-you-know-how-to-be-a-good-product-owner
-
+  - do-you-know-how-to-be-a-good-product-owner
+created: 2013-06-03T20:04:21.000Z
+archivedreason: null
+guid: 6fe6f616-5f01-4b6f-bd42-5b2bf6a06279
 ---
 
 The client is generally the Product Owner (PO). They should read the Scrum Guide and watch the Product Owner video to understand their role. It is so important to the success of their project:
