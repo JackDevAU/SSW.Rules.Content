@@ -5,6 +5,7 @@ uri: label-your-assets
 authors:
   - title: Kiki Biancatti
     url: https://ssw.com.au/people/kiki
+    img: https://github.com/SSWConsulting/SSW.People.Profiles/blob/main/Kaique-Biancatti/Images/Kaique-Biancatti-Profile.jpg
 created: 2021-10-14T22:48:34.119Z
 guid: e8684026-a7b7-4404-a513-9b8b39c55791
 ---
