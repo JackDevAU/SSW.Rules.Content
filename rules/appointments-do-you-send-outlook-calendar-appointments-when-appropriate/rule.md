@@ -17,7 +17,7 @@ created: 2009-04-03T03:37:31.000Z
 archivedreason: null
 guid: 202ef538-6e38-4a0f-af2f-5d2cb610e63c
 ---
-If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar. .
+If you wish to organize a meeting that involves some of your colleagues and a client, instead of sending an email, send an appointment. Sending appointments is convenient because all the user has to do is click 'accept' and it is in their calendar. ..
 
 <!--endintro-->
 
