@@ -16,7 +16,7 @@ created: 2021-07-13T06:09:10.000Z
 archivedreason: null
 guid: 6b6e9e25-e70a-423e-947b-b6821848f1e2
 ---
-Whether you're an expert or just getting started, working towards gaining a new certification is a worthwhile investment..
+Whether you're an expert or just getting started, working towards gaining a new certification is a worthwhile investment...
 
 Microsoft provides numerous certifications and training options to help you:
 
