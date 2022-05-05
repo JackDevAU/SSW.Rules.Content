@@ -9,11 +9,17 @@ related: []
 created: 2021-12-13T17:27:38.786Z
 guid: 8284cedd-8eea-4e3b-b04b-451896a615c0
 ---
-::: todo
-TODO: Byrden
-:::
+
             
 <!--endintro-->
+
+`youtube https://www.youtube.com/watch?v=vzXCyzH33b8
+`
+![Figure: Checkout Jasons blog: https://jasontaylor.dev/ef-core-database-initialisation-strategies/]()
+
+::: todo
+TODO: Bryden
+:::
 
 ::: bad
 Bad example - Don't modify database directly
