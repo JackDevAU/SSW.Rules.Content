@@ -47,7 +47,7 @@ Delete the column ztGender*
 
 ![Figure: Changing the data type and data required a "Data Motion Script"](TableChar.jpg) 
  
-::: greybox
+::: greybox 
 **Note:** zt stands for Temporary
 :::
 
