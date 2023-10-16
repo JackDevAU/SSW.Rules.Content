@@ -14,7 +14,6 @@ related:
   - concise-writing
 created: 2023-02-22T04:20:12.183Z
 guid: 9d8ce87b-f835-48a2-b60c-5549466da209
-
 ---
 
 We live in a complicated world with too many distractions, where information overload is commonplace. “Less is more” is all about keeping things simple and achieving a design with the least number of elements required to deliver a message effectively.
@@ -26,6 +25,8 @@ We live in a complicated world with too many distractions, where information ove
 It is common to include design elements, features, or product enhancements solely because we think we should. This approach can unnecessarily complicate a design and overwhelm a user. 
 
 ### Applying "Less is more"
+
+test
 
 #### Thumbnail designs
 
