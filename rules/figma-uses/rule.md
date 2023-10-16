@@ -14,6 +14,8 @@ Figma is a cloud-based design and prototyping tool that enables designers, devel
 
 It's widely used in the design industry for its simplicity, efficiency, and collaborative features. Figma is accessible through a web browser or desktop application, making it easy to work from anywhere.
 
+test
+
 Top 5 uses of Figma in a development project:
 
 1. **User Interface (UI) Design:** Figma is primarily used for creating UI designs. Its intuitive interface allows designers to craft pixel-perfect layouts, design elements, and visual components for websites, web applications, mobile apps, and other digital products.
