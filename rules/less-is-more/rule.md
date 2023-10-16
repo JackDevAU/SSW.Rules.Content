@@ -26,7 +26,7 @@ It is common to include design elements, features, or product enhancements solel
 
 ### Applying "Less is more"
 
-test
+testa
 
 #### Thumbnail designs
 
