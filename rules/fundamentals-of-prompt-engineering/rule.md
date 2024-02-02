@@ -14,8 +14,6 @@ The best way to get up and running with ChatGPT is by using a cheat sheet. Check
 
 In ChatGPT prompt engineering, various elements play a critical role in shaping the user's prompt and obtaining the desired output. These elements are role, result, intent, context, and constraint.
 
-
-asdwdadwad
 <!--endintro-->
 
 Let's define each of them and provide an example that illustrates their use.
